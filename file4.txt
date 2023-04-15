@@ -1,2 +1,0 @@
-this is new file for master branch
-creating new file on b1 branch
